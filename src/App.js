@@ -1,24 +1,45 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import MenuForm from './menu';
+import list from "./image/image";
+
+
+
+import { makeStyles } from "@material-ui/core/styles";
+
+
+
+const useStyles = makeStyles((theme) => ({
+  img: {
+    margin: 0,
+    display: "flex",
+
+    maxWidth: "100%",
+    backgroundColor: "white",
+    alignItems: "center",
+  },
+  storeInfo:{
+    fontFamily:"Helvetica",
+    fontStyle:"italic",
+  },
+}));
 
 function App() {
+  // eslint-disable-next-line react-hooks/rules-of-hooks
+  const classes = useStyles();
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <Paper>
+      <Grid container>
+ 
+      </Paper> */}
+      
+      {list.map((item, index) => {
+          return <MenuForm id={index} itemsImage={item.itemsImage} />;
+
+      })}
+     
     </div>
   );
 }
