@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/lyche/static/css/main.8cbddc3d.chunk.css",
-    "main.js": "/lyche/static/js/main.3f5272fe.chunk.js",
-    "main.js.map": "/lyche/static/js/main.3f5272fe.chunk.js.map",
+    "main.js": "/lyche/static/js/main.badd26fa.chunk.js",
+    "main.js.map": "/lyche/static/js/main.badd26fa.chunk.js.map",
     "runtime-main.js": "/lyche/static/js/runtime-main.b39338a4.js",
     "runtime-main.js.map": "/lyche/static/js/runtime-main.b39338a4.js.map",
     "static/js/2.de0f3f04.chunk.js": "/lyche/static/js/2.de0f3f04.chunk.js",
     "static/js/2.de0f3f04.chunk.js.map": "/lyche/static/js/2.de0f3f04.chunk.js.map",
     "index.html": "/lyche/index.html",
-    "precache-manifest.2c3cc1f96dd49c56b46b5a9960e5f046.js": "/lyche/precache-manifest.2c3cc1f96dd49c56b46b5a9960e5f046.js",
+    "precache-manifest.63f717b054e7502b8b0870499cbd3d0c.js": "/lyche/precache-manifest.63f717b054e7502b8b0870499cbd3d0c.js",
     "service-worker.js": "/lyche/service-worker.js",
     "static/css/main.8cbddc3d.chunk.css.map": "/lyche/static/css/main.8cbddc3d.chunk.css.map",
     "static/js/2.de0f3f04.chunk.js.LICENSE.txt": "/lyche/static/js/2.de0f3f04.chunk.js.LICENSE.txt",
-    "static/media/page1.jpg": "/lyche/static/media/page1.17eb2f4f.jpg",
-    "static/media/page2.jpg": "/lyche/static/media/page2.ad5d3b56.jpg",
-    "static/media/page3.jpg": "/lyche/static/media/page3.2a59bb46.jpg"
+    "static/media/page1.jpg": "/lyche/static/media/page1.3f789bf0.jpg",
+    "static/media/page2.jpg": "/lyche/static/media/page2.e1bc4da0.jpg",
+    "static/media/page3.jpg": "/lyche/static/media/page3.09c616c3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b39338a4.js",
     "static/js/2.de0f3f04.chunk.js",
     "static/css/main.8cbddc3d.chunk.css",
-    "static/js/main.3f5272fe.chunk.js"
+    "static/js/main.badd26fa.chunk.js"
   ]
 }

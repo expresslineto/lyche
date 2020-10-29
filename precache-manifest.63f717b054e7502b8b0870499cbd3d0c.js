@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9732d51c74ee778ed77fae590c5b54f7",
+    "revision": "2eef21ddccfc8ee9614c1cbbf32bd139",
     "url": "/lyche/index.html"
   },
   {
-    "revision": "f68f3d5ab340caa26878",
+    "revision": "682e084873dd9a7dce75",
     "url": "/lyche/static/css/main.8cbddc3d.chunk.css"
   },
   {
@@ -16,23 +16,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lyche/static/js/2.de0f3f04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f68f3d5ab340caa26878",
-    "url": "/lyche/static/js/main.3f5272fe.chunk.js"
+    "revision": "682e084873dd9a7dce75",
+    "url": "/lyche/static/js/main.badd26fa.chunk.js"
   },
   {
     "revision": "4cda2d7bc2c97e5b81a0",
     "url": "/lyche/static/js/runtime-main.b39338a4.js"
   },
   {
-    "revision": "17eb2f4fd44e4d210da1ccb08bbb0fbd",
-    "url": "/lyche/static/media/page1.17eb2f4f.jpg"
+    "revision": "3f789bf046f0a70d422b9097f445fb34",
+    "url": "/lyche/static/media/page1.3f789bf0.jpg"
   },
   {
-    "revision": "ad5d3b562edff81cc8be8d4e68dcc1ff",
-    "url": "/lyche/static/media/page2.ad5d3b56.jpg"
+    "revision": "e1bc4da05b335521fa4ca92e8e33d4d9",
+    "url": "/lyche/static/media/page2.e1bc4da0.jpg"
   },
   {
-    "revision": "2a59bb46ea66fff870aaf906a1a57b4c",
-    "url": "/lyche/static/media/page3.2a59bb46.jpg"
+    "revision": "09c616c3f07fc105bc469104b584040e",
+    "url": "/lyche/static/media/page3.09c616c3.jpg"
   }
 ]);
